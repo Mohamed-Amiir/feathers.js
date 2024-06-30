@@ -47,6 +47,8 @@
     "@feathersjs/adapter-commons": "^5.0.27",
     "@feathersjs/authentication": "^5.0.27",
     "@feathersjs/authentication-client": "^5.0.27",
+    "@feathersjs/authentication-local": "^5.0.27",
+    "@feathersjs/authentication-oauth": "^5.0.27",
     "@feathersjs/configuration": "^5.0.27",
     "@feathersjs/errors": "^5.0.27",
     "@feathersjs/express": "^5.0.27",
@@ -56,6 +58,7 @@
     "@feathersjs/socketio": "^5.0.27",
     "@feathersjs/transport-commons": "^5.0.27",
     "compression": "^1.7.4",
+    "express-openid-connect": "^2.17.1",
     "mongodb": "^6.5.0",
     "winston": "^3.13.0"
   },
